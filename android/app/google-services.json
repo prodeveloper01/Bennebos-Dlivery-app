@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "208087675244",
+    "project_id": "bennebosonline",
+    "storage_bucket": "bennebosonline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208087675244:android:da4f6f9b24f54149394349",
+        "android_client_info": {
+          "package_name": "com.shanideveloper.Bennebos_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208087675244-3kfg243beflp6oqgbe50rk10acs2k1rf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shanideveloper.Bennebos_delivery_app",
+            "certificate_hash": "89737ef5b8409b0b5f2317672194a835d76105ab"
+          }
+        },
+        {
+          "client_id": "208087675244-o6220gchknqb0hled9rosj21n0g27knb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDftINMlJ25EPfcLe8fQUEh5PkLrwAeQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208087675244-o6220gchknqb0hled9rosj21n0g27knb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208087675244:android:eff2cffc68ba31e5394349",
+        "android_client_info": {
+          "package_name": "com.shanideveloper.Bennebos_store_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208087675244-dskidpmk0vbhu1uh0g739h59g1ttarjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shanideveloper.Bennebos_store_app",
+            "certificate_hash": "89737ef5b8409b0b5f2317672194a835d76105ab"
+          }
+        },
+        {
+          "client_id": "208087675244-o6220gchknqb0hled9rosj21n0g27knb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDftINMlJ25EPfcLe8fQUEh5PkLrwAeQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208087675244-o6220gchknqb0hled9rosj21n0g27knb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208087675244:android:a7b8ee324a4649f7394349",
+        "android_client_info": {
+          "package_name": "com.shanideveloper.Bennebos_user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208087675244-uuhl9t7qsc6cpm0t5ef2169af91bhtq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shanideveloper.Bennebos_user_app",
+            "certificate_hash": "89737ef5b8409b0b5f2317672194a835d76105ab"
+          }
+        },
+        {
+          "client_id": "208087675244-o6220gchknqb0hled9rosj21n0g27knb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDftINMlJ25EPfcLe8fQUEh5PkLrwAeQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208087675244-o6220gchknqb0hled9rosj21n0g27knb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
